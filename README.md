@@ -8,4 +8,4 @@ For our case, we will consider two types of ANNs: one with a single output neuro
 We will explore how the different configurations perform on the 1-dimensional dataset given.
 My report can be accessed here: https://xmassmx.github.io/GE-461-Supervised-Learning/
 
-Note: Please stay away from plagiarism. This work is meant to be used as a guide only.
+Note: Please do not copy this work and stay away from plagiarism. The work in this repository is my solution and is meant to be used as a guide only.
